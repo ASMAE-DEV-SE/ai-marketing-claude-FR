@@ -26,12 +26,12 @@ else
     # Running via curl | bash — need to clone
     echo -e "${YELLOW}Running remote install — cloning repository...${NC}"
     TEMP_DIR=$(mktemp -d)
-    git clone --depth 1 https://github.com/zubair-trabzada/ai-marketing-claude.git "$TEMP_DIR/ai-marketing-claude" 2>/dev/null
+    git clone --depth 1 https://github.com/ASMAE-DEV-SE/claude-agents-marketing-eu.git "$TEMP_DIR/claude-agents-marketing-eu" 2>/dev/null
     if [ $? -ne 0 ]; then
         echo -e "${RED}Failed to clone repository.${NC}"
         exit 1
     fi
-    SCRIPT_DIR="$TEMP_DIR/ai-marketing-claude"
+    SCRIPT_DIR="$TEMP_DIR/claude-agents-marketing-eu"
 fi
 
 # Target directories
