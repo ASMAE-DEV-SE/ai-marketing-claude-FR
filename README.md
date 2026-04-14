@@ -75,12 +75,12 @@ Le script copie les skills dans `~/.claude/skills/` et les agents dans `~/.claud
 
 Lancement de 5 agents en parallèle...
 
-  ✓ Contenu & Messaging            [score sur 100]
-  ✓ Optimisation des Conversions   [score sur 100]
-  ✓ SEO & Visibilité               [score sur 100]
-  ✓ Positionnement Concurrentiel   [score sur 100]
-  ✓ Marque & Confiance             [score sur 100]
-  ✓ Croissance & Stratégie         [score sur 100]
+  ✓ Contenu & Messaging      
+  ✓ Optimisation des Conversions 
+  ✓ SEO & Visibilité  
+  ✓ Positionnement Concurrentiel 
+  ✓ Marque & Confiance    
+  ✓ Croissance & Stratégie 
 
   Score Marketing Global : [moyenne pondérée / 100]
 
