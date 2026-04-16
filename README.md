@@ -24,6 +24,10 @@
 
 ---
 
+> **Version française** — Cette branche (`localization/fr`) est une traduction et adaptation en français du projet original [ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude) par [@zubair-trabzada](https://github.com/zubair-trabzada). Le contenu, les agents et les skills ont été entièrement traduits et adaptés au marché francophone et européen.
+
+---
+
 ## C'est quoi exactement ?
 
 Ce projet est un **système de skills et d'agents IA** qui s'installe dans [Claude Code](https://docs.anthropic.com/en/docs/claude-code) et vous permet d'analyser des sites web réels, générer du contenu marketing et produire des rapports en Markdown ou PDF — directement depuis votre terminal.
